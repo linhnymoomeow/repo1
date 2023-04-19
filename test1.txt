@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 7649-804C
-
- Directory of C:\Users\linhc\OneDrive\Desktop\project
-
-04/18/2023  10:32 PM    <DIR>          .
-04/18/2023  10:28 PM    <DIR>          ..
-04/18/2023  10:32 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  64,502,337,536 bytes free
+ahihi Do Ngoc
